@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:rim="http://www.blackberry.com/ns/widgets"
+        version="1.0.0" id="grubinsadventure">
+
+  <author href=""
+          rim:copyright="">Jedd Ninonuevo, Sherlyn Meran, Michael Manalang</author>
+
+  <name>Grubin's Adventure</name>
+
+  <description>
+     Grubin's Adventure for Blackberry
+  </description>
+
+  <feature id="blackberry.app.orientation">
+    <param name="mode" value="landscape" />
+  </feature>
+  <content src="index.html" />
+  <icon src="images/icon-150.png"/>
+  <icon src="images/icon-86.png"/>
+
+
+  <feature id="blackberry.ui.dialog"/>
+
+  <rim:permissions>
+  </rim:permissions>
+
+</widget>

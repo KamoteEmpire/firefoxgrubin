@@ -1,0 +1,14 @@
+{
+  "name": "Grubin's Adventure",
+  "description": "join The Fun",
+  "launch_path": "/index.html",
+  "orientation": "landscape",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "developer": {
+    "name": "Kamote Empire",
+    "url": "http://kamoterulestheuniverse.blogspot.com"
+  },
+  "default_locale": "en"
+}
